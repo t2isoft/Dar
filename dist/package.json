@@ -1,0 +1,11 @@
+{
+ "name": "adopte-un-jungle",
+ "version": "1.0.0",
+ "description": "dar c'est dar",
+ "author": "Karl Dimitri Et Thibault",
+ "private": true,
+ "scripts": {
+   "postinstall": "npm install express"
+ }
+}
+
